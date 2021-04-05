@@ -1,0 +1,13 @@
+#canvas1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 2px solid black;
+    background: url('./assets/SpaceShooterRedux/Backgrounds/black.png');
+    object-fit: contain;
+    /* background-color:black; */
+}
+
+  
+  
